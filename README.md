@@ -10,9 +10,8 @@ Whether it's building new projects or creating music, I approach everything I do
 
 [tic-tac-toe](https://github.com/SavimakiLuka/tic-tac-toe/tree/main/J%C3%A4tk%C3%A4shakki)
 
-<div>
-  <img width="50%" src="https://[i.imgur.com/8BgVXcY.png](https://github.com/user-attachments/assets/99f79132-7e10-41a9-8ebb-723bd479583f)" alt="Sample image compressed 50%" title="Sample image compressed 50%">
-</div>
+![121405384-444d7300-c95d-11eb-959f-913020d3bf90](https://github.com/user-attachments/assets/61ffd983-84d8-4f27-8034-e2b10b3d77d3)
+
 
 
 <!--- 
