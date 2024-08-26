@@ -10,15 +10,18 @@ Whether it's building new projects or creating music, I approach everything I do
 
 [tic-tac-toe](https://github.com/SavimakiLuka/tic-tac-toe/tree/main/J%C3%A4tk%C3%A4shakki)
 
-<img scr="https://banner2.cleanpng.com/20180831/iua/kisspng-c-programming-language-logo-microsoft-visual-stud-atlas-portfolio-1713945971245.webp">
+<link href="https://languages.abranhe.com/logos.css" rel="stylesheet">
+<i class="programming lang-ruby"></i>
+<i class="programming lang-javascript"></i>
+<i class="programming lang-cpp"></i>
+<i class="programming lang-typescript"></i>
+<i class="programming lang-python"></i>
+<i class="programming lang-kotlyn"></i>
+<img scr="https://banner2.cleanpng.com/20180831/iua/kisspng-c-programming-language-logo-microsoft-visual-stud-atlas-portfolio-1713945971245.webp" height="100">
 
-<!--- 🔭 I’m currently working on ...
+<!--- 
 - 🌱 I’m currently learning C# using visual studio.
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
+- 🏫 I’m currently student in gradia.
 
 
 -->
