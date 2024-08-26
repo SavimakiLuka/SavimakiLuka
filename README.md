@@ -10,7 +10,7 @@ Whether it's building new projects or creating music, I approach everything I do
 
 [tic-tac-toe](https://github.com/SavimakiLuka/tic-tac-toe/tree/main/J%C3%A4tk%C3%A4shakki)
 
-<img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/cscharp/cscharp.png" height="100">
+<i class="programming lang-csharp"></i>
 
 <!--- 🔭 I’m currently working on ...
 - 🌱 I’m currently learning C# using visual studio.
