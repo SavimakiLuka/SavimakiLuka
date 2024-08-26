@@ -10,7 +10,7 @@ Whether it's building new projects or creating music, I approach everything I do
 
 [tic-tac-toe](https://github.com/SavimakiLuka/tic-tac-toe/tree/main/J%C3%A4tk%C3%A4shakki)
 
-<img scr="https://github.com/user-attachments/assets/99f79132-7e10-41a9-8ebb-723bd479583f">
+<img scr="https://github.com/user-attachments/assets/99f79132-7e10-41a9-8ebb-723bd479583f" height="100" whight="100">
 
 <!--- 
 - 🌱 I’m currently learning C# using visual studio.
