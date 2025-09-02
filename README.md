@@ -18,7 +18,7 @@ Whether it's building new projects or creating music, I approach everything I do
   <img src="https://github.com/bablubambal/All_logo_and_pictures/blob/main/others/html.svg" alt="Kuva" width="100"/>
   <img src="https://github.com/bablubambal/All_logo_and_pictures/blob/main/social%20icons/svelte.svg" alt="Kuva" width="100"/>
   <img src="https://github.com/bablubambal/All_logo_and_pictures/blob/main/databases/mysql.svg" alt="Kuva" width="100"/>
-  <div>ST</div>
+  <img src="https://smookcreative.gallerycdn.vsassets.io/extensions/smookcreative/structuredtext/0.1.1/1508154263151/Microsoft.VisualStudio.Services.Icons.Default" alt="Kuva" width="100"/>
 </ul>
 
 <!--- 
