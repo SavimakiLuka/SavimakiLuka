@@ -18,6 +18,7 @@ Whether it's building new projects or creating music, I approach everything I do
   <img src="https://github.com/bablubambal/All_logo_and_pictures/blob/main/others/html.svg" alt="Kuva" width="100"/>
   <img src="https://github.com/bablubambal/All_logo_and_pictures/blob/main/social%20icons/svelte.svg" alt="Kuva" width="100"/>
   <img src="https://github.com/bablubambal/All_logo_and_pictures/blob/main/databases/mysql.svg" alt="Kuva" width="100"/>
+  <h2>ST</h2>
 </ul>
 
 <!--- 
