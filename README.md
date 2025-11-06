@@ -9,6 +9,7 @@ My strengths lie in my calm demeanor, strong work ethic, and dedication to conti
 Whether it's building new projects or creating music, I approach everything I do with focus and enthusiasm.
 
 [tic-tac-toe](https://github.com/SavimakiLuka/tic-tac-toe/tree/main/J%C3%A4tk%C3%A4shakki)
+[Chess](https://github.com/SavimakiLuka/Chess/tree/main/Chess)
 
 <h2>Languages</h2>
 <ul>
