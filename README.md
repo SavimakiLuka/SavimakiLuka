@@ -2,7 +2,7 @@
 
 
 
-I am a 18-year-old student currently studying Information and Communication Technology at Gradia.
+I am an 18-year-old graduate of the Information and Communication Technology program at Gradia.
 In my free time, I enjoy working on various creative projects, particularly in video game development.
 I am also an avid guitar player with a passion for music.
 My strengths lie in my calm demeanor, strong work ethic, and dedication to continuously improving my skills.
